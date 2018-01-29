@@ -1,6 +1,6 @@
 # README
 
-This is a practice Rails for an online course.
+This is a practice Rails app for an online course.
 
 * Ruby version 2.4.3
 
